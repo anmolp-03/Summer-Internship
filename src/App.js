@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import CampaignStatsCard from "./CampaignStatsCard.jsx";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ padding: "30px", backgroundColor: "#f3f3f3", minHeight: "100vh" }}>
+      <CampaignStatsCard
+        campaignName="Summer Sale 2025"
+        impressions={10000}
+        clicks={500}
+        conversions={45}
+      />
     </div>
   );
 }
