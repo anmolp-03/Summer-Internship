@@ -22,6 +22,13 @@ A modern, interactive React component that displays marketing campaign statistic
 
 ---
 
+## What These Stats Mean
+- Impressions: Number of times the campaign was shown
+- Clicks: Number of clicks on the campaign
+- Conversions: Number of desired actions completed
+- Conversion Rate: Percentage of impressions that converted
+- Click Through Rate (CTR): Percentage of impressions that resulted in clicks
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
