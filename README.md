@@ -16,9 +16,9 @@ A modern, interactive React component that displays marketing campaign statistic
 ## 🖼️ Screenshots
 
 <!-- Replace with actual image paths -->
-![Screenshot 1]("D:\Pictures\Screenshots\Screenshot 2025-05-27 184659.png")
-![Screenshot 2]("D:\Pictures\Screenshots\Screenshot 2025-05-27 184650.png")
-![Screenshot 3]("D:\Pictures\Screenshots\Screenshot 2025-05-27 184708.png")
+![Screenshot 1](https://github.com/anmolp-03/Summer-Internship/blob/main/public/Screenshot2.png?raw=true)
+![Screenshot 2](https://github.com/anmolp-03/Summer-Internship/blob/main/public/Screenshot1.png?raw=true)
+![Screenshot 3](https://github.com/anmolp-03/Summer-Internship/blob/main/public/Screenshot3.png?raw=true)
 
 ---
 
