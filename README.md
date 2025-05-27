@@ -23,11 +23,17 @@ A modern, interactive React component that displays marketing campaign statistic
 ---
 
 ## What These Stats Mean
-- Impressions: Number of times the campaign was shown
-- Clicks: Number of clicks on the campaign
-- Conversions: Number of desired actions completed
-- Conversion Rate: Percentage of impressions that converted
-- Click Through Rate (CTR): Percentage of impressions that resulted in clicks
+- Impressions: How many times the ad or campaign was shown to people.
+- Clicks: How many times people actually clicked on the ad after seeing it.
+- Conversions: How many people took a desired action after clicking—like signing up, buying something, or filling a form.
+
+### The details section shows important rates calculated from those numbers:
+- Conversion Rate: Percentage of people who converted out of total impressions.
+- Click Through Rate (CTR): Percentage of people who clicked out of total impressions. Basically, this card gives a quick overview of how well a marketing campaign is performing—how many people saw it, engaged with it, and finally took action.
+
+This kind of info helps companies like Strique track the success of their digital marketing campaigns and optimize them better.
+
+---
 
 ## 🛠️ Getting Started
 
